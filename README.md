@@ -10,7 +10,7 @@ node.js使用aes-256-cbc加密，java端进行解密操作
 
 [Java Cryptography Extension (JCE) Unlimited Strength Jurisdiction Policy Files 8](http://www.oracle.com/technetwork/java/javase/downloads/jce8-download-2133166.html)
 
-下载之后替换%JAVA_HOME%/jre/lib/security 下的包即可
+下载之后替换%JAVA_HOME%/jre/lib/security 下的```local_policy.jar```  ```US_export_policy.jar```包即可
 
 
 
